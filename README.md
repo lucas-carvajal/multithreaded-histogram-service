@@ -14,7 +14,7 @@ When executing one of the options, updates on which files are processed and even
 * Semaphor, Consumer-Producer Paradigm and Fork/Join Framework
 * Java Stream API
 * Message Passing with TCP-Sockets
-* Actor Model
+* Actor Model using Akka
 
 ### Disclaimers
 This was a project I did for my Parallel Programming class.  
