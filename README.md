@@ -12,7 +12,7 @@ When executing one of the options, updates on which files are processed and even
 ### What did I learn?
 * Threads, Shared Memory and Locking
 * Semaphor, Consumer-Producer Paradigm and Fork/Join Framework
-* Stream API
+* Java Stream API
 * Message Passing with TCP-Sockets
 * Actor Model
 
