@@ -7,7 +7,10 @@ When executing one of the options, updates on which files are processed and even
 
 ### How to use it?
 1. Make sure you use Java 11
-2. Run the main function in "/Assignment4/src/main/java/de/uniba/wiai/dsg/pks/assignment/Main.java"
+2. Run the main function in "/Assignment4/src/main/java/de/uniba/wiai/dsg/pks/assignment/Main.java" with the following program arguments:
+    1. GUI
+    2. /path/to/folder/for/which/histogram/should/be/generated
+    3. txt (or whichever files you want to search)
 
 ### What did I learn?
 * Threads, Shared Memory and Locking
